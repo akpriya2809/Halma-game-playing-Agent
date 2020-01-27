@@ -1,0 +1,7 @@
+SINGLE
+WHITE
+100.0
+WWB.
+.B.W
+B...
+....
